@@ -20,14 +20,14 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQLi
 
-Vulnerability #2: CSRF
+Vulnerability #2: Session Hijacking/Fixation
 
 
 ## Green
 
 Vulnerability #1: XSS
 
-Vulnerability #2: Session Hijacking/Fixation
+Vulnerability #2: CSRF
 
 
 ## Red

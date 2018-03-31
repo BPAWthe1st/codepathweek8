@@ -27,14 +27,14 @@ Vulnerability #2: Session Hijacking/Fixation
 
 Vulnerability #1: XSS
 
-Vulnerability #2: CSRF
+Vulnerability #2: username enumeration
 
 
 ## Red
 
 Vulnerability #1: IDOR
 
-Vulnerability #2: username enumeration
+Vulnerability #2: csrf
 
 
 ## Notes
